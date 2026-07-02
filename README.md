@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Tushar Bisht 👋
 
-<!--
-**tusharbisht252/tusharbisht252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+I'm **Tushar Bisht**, a passionate Computer Science student with a strong interest in technology and continuous learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Currently pursuing a **Bachelor of Computer Applications (BCA) with AI/ML**.
+
+🌱 I’m currently learning:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌐 Full Stack Web Development
+* 💻 Data Structures & Algorithms
+
+🚀 I enjoy building real-world projects, solving programming problems, and exploring new technologies. My goal is to create impactful applications that combine intelligent solutions with modern web development.
+
+### 🎯 Goals
+
+* Build industry-level full stack projects
+* Strengthen AI/ML skills through hands-on practice
+* Contribute to open-source projects
+* Continuously improve as a software developer
+
+> *"Learning something new every day and turning ideas into reality through code."*
